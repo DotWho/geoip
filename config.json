@@ -72,6 +72,14 @@
       "type": "text",
       "action": "add",
       "args": {
+        "name": "apple-cn",
+        "uri": "./rules/apple-cn.txt"
+      }
+    },
+    {
+      "type": "text",
+      "action": "add",
+      "args": {
         "inputDir": "./data"
       }
     },
